@@ -754,8 +754,6 @@ This project is released under the MIT License, granting you the freedom to:
 - 🔄 Modify and redistribute
 - 📚 Use as educational material
 
-## 📞 Contact
-
 
 ---
 
